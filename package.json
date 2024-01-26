@@ -1,0 +1,13 @@
+{
+  "name": "com.yellowyears.decay-interaction-engine",
+  "version": "0.0.1",
+  "displayName": "Decay Intercaction Engine",
+  "description": "The backend physics interaction systems used in yellowyears Productions games.",
+  "unity": "2022.3",
+  "unityRelease": "18f1",
+  "keywords": [
+	"keyword1",
+	"keyword2",
+	"keyword3"
+  ],
+}
